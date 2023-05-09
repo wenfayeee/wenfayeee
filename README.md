@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Munn Faye</h1>
 <h3 align="center">A final year Computer Science undergrad</h3>
 
+## :mega: This profile is still in construction :mega: <br />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wenfayeee" alt="wenfayeee" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wenfayeee&show_icons=true&locale=en&layout=compact" alt="wenfayeee" /></p>
