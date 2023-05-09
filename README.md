@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Spacenetic - Flutter mobile app](https://github.com/wenfayeee/spacenetic-flutter)
 
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I’m currently learning **Dart, Flutter, Docker**
 
 - 📫 How to reach me **munnfayee@gmail.com**
 
