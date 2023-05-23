@@ -15,7 +15,4 @@ I'm currently working on Spacenetic - Flutter mobile app<br>I'm currently learni
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wenfayeee&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
