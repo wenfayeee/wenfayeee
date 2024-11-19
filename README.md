@@ -1,7 +1,7 @@
 # 💫 About Me:
-Final year Computer Science undergraduate, majoring Network Technology.
+Computer Science graduate, Network Technology major.
 
-I'm currently working on Ayo Event Management - Flutter mobile app<br>I'm currently learning Dart, Flutter, Node.js, Docker, PostgreSQL<br>How to reach me: munnfayee@gmail.com
+How to reach me: munnfayee@gmail.com
 
 
 ## 🌐 Socials:
